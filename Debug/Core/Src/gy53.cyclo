@@ -1,0 +1,6 @@
+../Core/Src/gy53.c:25:6:GY53_Init	1
+../Core/Src/gy53.c:40:6:HAL_UART_RxHalfCpltCallback	2
+../Core/Src/gy53.c:47:6:HAL_UART_RxCpltCallback	2
+../Core/Src/gy53.c:54:13:GY53_Parse_Frame	8
+../Core/Src/gy53.c:101:13:GY53_FeedBytes	8
+../Core/Src/gy53.c:146:6:GY53_GetSample	6

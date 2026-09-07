@@ -1,0 +1,4 @@
+../Core/Src/servo.c:33:13:Update_Servo_Pulse	24	static
+../Core/Src/servo.c:40:6:Servo_SetAngle	16	static
+../Core/Src/servo.c:51:6:Servo_Init	8	static
+../Core/Src/servo.c:60:6:Servo_TimerTick	8	static

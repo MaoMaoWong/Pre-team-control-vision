@@ -1,0 +1,7 @@
+../Core/Src/mpu6500.c:19:6:mpu_write_byte	24	static
+../Core/Src/mpu6500.c:37:6:mpu_read_byte	32	static
+../Core/Src/mpu6500.c:67:6:MPU6500_Init	16	static
+../Core/Src/mpu6500.c:93:6:Get_MPU6500_Accelerometer	48	static
+../Core/Src/mpu6500.c:124:6:Get_MPU6500_GYRO	48	static
+../Core/Src/mpu6500.c:161:6:MPU_Calibrate	24	static
+../Core/Src/mpu6500.c:185:6:MPU_Update	32	static

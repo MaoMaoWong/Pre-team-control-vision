@@ -1,0 +1,9 @@
+../Core/Src/shooter.c:36:13:Shooter_SetWheelPwm	2
+../Core/Src/shooter.c:46:6:Shooter_Init	1
+../Core/Src/shooter.c:58:6:Shooter_Enable	1
+../Core/Src/shooter.c:66:6:Shooter_StartFire	5
+../Core/Src/shooter.c:82:6:Shooter_Task	12
+../Core/Src/shooter.c:142:6:Shooter_Stop	1
+../Core/Src/shooter.c:150:9:Shooter_IsBusy	5
+../Core/Src/shooter.c:158:9:Shooter_IsDone	1
+../Core/Src/shooter.c:163:6:Shooter_ClearDone	2

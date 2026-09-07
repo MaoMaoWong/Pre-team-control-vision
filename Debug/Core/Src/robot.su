@@ -1,0 +1,15 @@
+../Core/Src/robot.c:56:13:Robot_SetState	16	static
+../Core/Src/robot.c:68:13:Robot_StopAllActuators	8	static
+../Core/Src/robot.c:76:13:Robot_EnterError	8	static
+../Core/Src/robot.c:82:15:Robot_FindGridByRadical	24	static
+../Core/Src/robot.c:92:16:Robot_GetCurrentRadical	16	static
+../Core/Src/robot.c:103:13:Robot_GotoNextRadical	8	static
+../Core/Src/robot.c:121:6:Robot_Init	8	static
+../Core/Src/robot.c:131:6:Robot_StartMatch	16	static
+../Core/Src/robot.c:168:6:Robot_UpdateGrid	24	static
+../Core/Src/robot.c:205:6:Robot_Task	32	static
+../Core/Src/robot.c:383:6:Robot_EmergencyStop	8	static
+../Core/Src/robot.c:387:9:Robot_UpdateTargetWords	16	static
+../Core/Src/robot.c:408:6:Robot_ConfirmReload	4	static
+../Core/Src/robot.c:414:6:Robot_StopMatch	8	static
+../Core/Src/robot.c:426:14:Robot_GetState	4	static

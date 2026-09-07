@@ -1,0 +1,7 @@
+../Core/Src/mpu6500.c:19:9:mpu_write_byte	1
+../Core/Src/mpu6500.c:29:9:mpu_read_byte	1
+../Core/Src/mpu6500.c:41:9:MPU6500_Init	1
+../Core/Src/mpu6500.c:60:6:Get_MPU6500_Accelerometer	2
+../Core/Src/mpu6500.c:77:6:Get_MPU6500_GYRO	2
+../Core/Src/mpu6500.c:90:6:MPU_Calibrate	2
+../Core/Src/mpu6500.c:108:6:MPU_Update	1
